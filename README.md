@@ -12,8 +12,5 @@ Este repo es útil si estás compilando tu propio Tree-sitter WASM custom o nece
 
 ## Instalación
 
-Si publicas este paquete en npm (recomendado), instala así:
-
 ```bash
-npm install @cerdaqu/tree-sitter-wasm-typescript-bindings
-# o si no lo publicaste aún: npm install github:cerdaqu/tree-sitter-wasm-typescript-bindings
+npm install @cerdaqu/tree-sitter-wasm-typescript-declarations
